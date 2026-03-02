@@ -1,0 +1,1 @@
+bb_func,function.func_start(bb_func)|terminal.print(str testing...ء val 60) |function.report_inputs(val 1) |if (var data_return = str null) |terminal.print(str errorء val 0) |function.return(str error) |endif|terminal.print(str test-completeء val 60) |function.func_end()|,
